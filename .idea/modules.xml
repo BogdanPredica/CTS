@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/CTS.iml" filepath="$PROJECT_DIR$/.idea/CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS_sem3/CTS_sem3.iml" filepath="$PROJECT_DIR$/CTS_sem3/CTS_sem3.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS_sem3_part2/CTS_sem3_part2.iml" filepath="$PROJECT_DIR$/CTS_sem3_part2/CTS_sem3_part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS_sem4/CTS_sem4.iml" filepath="$PROJECT_DIR$/CTS_sem4/CTS_sem4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS_sem4_part2/CTS_sem4_part2.iml" filepath="$PROJECT_DIR$/CTS_sem4_part2/CTS_sem4_part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS_sem4_part3/CTS_sem4_part3.iml" filepath="$PROJECT_DIR$/CTS_sem4_part3/CTS_sem4_part3.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS_sem3/Factory.iml" filepath="$PROJECT_DIR$/CTS_sem3/Factory.iml" />
     </modules>
   </component>

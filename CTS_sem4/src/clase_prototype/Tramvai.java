@@ -1,4 +1,4 @@
-package clase;
+package clase_prototype;
 
 public class Tramvai  implements MijlocTransport{
 

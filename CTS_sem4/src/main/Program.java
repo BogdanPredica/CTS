@@ -1,7 +1,7 @@
 package main;
 
-import clase.Autobuz;
-import clase.Tramvai;
+import clase_prototype.Autobuz;
+import clase_prototype.Tramvai;
 
 public class Program {
     public static void main(String[] args) throws CloneNotSupportedException {

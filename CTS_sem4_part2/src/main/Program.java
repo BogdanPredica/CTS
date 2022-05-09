@@ -18,5 +18,6 @@ public class Program {
         builder.setTextDerulat("La multi ani").setOraIncepereProgram(9);
 
         Autobuz a1 = builder.build();
+        System.out.println(a1.toString());
     }
 }

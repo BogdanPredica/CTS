@@ -20,5 +20,6 @@ public class Main {
 
         afisareMijlocTransport(new FactoryAutobuz(), 100);
         afisareMijlocTransport(new FactoryTroleibuz(), 101);
+        afisareMijlocTransport(new FactoryTramvai(), 103);
     }
 }
